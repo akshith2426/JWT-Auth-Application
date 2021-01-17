@@ -1,4 +1,4 @@
-# application using JWT Authentication
+# Application using JWT Authentication
 ## Base url http://localhost:3000/
 ## Routes
 Home Page - /
